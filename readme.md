@@ -3,7 +3,7 @@
 ---
 ### Installation
 
-- Standalone execuable:
+- Standalone executable:
     - Download [pdfmerge.exe](https://github.com/SaadBadr/pdfmerge/raw/master/dist/pdfmerge.exe)
     - You can add its location to the PATH Environment Variable and use it anywhere from terminal
 - If you want to run the script `pdfmerge.py`, make sure to install [merge_pdf](https://pypi.org/project/merge-pdf/) first.
